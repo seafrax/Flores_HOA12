@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS                      PORTS                                       NAMES
+acf0fff19e23   sampleapp      "/bin/sh -c 'python3…"   5 minutes ago    Up 5 minutes                0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+bc5dccbbe374   2acccf902fa3   "/bin/sh -c 'pip ins…"   15 minutes ago   Exited (2) 15 minutes ago                                               brave_bouman
+54ac6ab0ab4e   2acccf902fa3   "/bin/sh -c 'pip ins…"   20 minutes ago   Exited (2) 20 minutes ago                                               ecstatic_bardeen
